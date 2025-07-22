@@ -1,2 +1,2 @@
-# Personal-Portfolio.github.io
-Personal-Portfolio
+# PragatiPortfolio.github.io
+Pragati Portfolio
